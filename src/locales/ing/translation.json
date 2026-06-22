@@ -1,0 +1,111 @@
+{
+  "header": {
+    "phone": "+998(71)205-95-95",
+    "search": "Search"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "stores": "Stores",
+    "news": "News",
+    "offers": "Special offers",
+    "partners": "For partners",
+    "vacancy": "Vacancy"
+  },
+  "home": {
+    "special": "Special offer",
+    "priceNote": "*Prices are valid for a limited time",
+    "dontMiss": "DON'T MISS THE SPECIAL OFFER! CATALOG UPDATES EVERY WEEK",
+    "about": "HAVAS is a network of discount stores near your home. We offer quality products at affordable prices.",
+    "aboutSub": "In our stores you can find well-known world and local brands, as well as our own products.",
+    "detail": "Learn more",
+    "news": "News",
+    "allNews": "View all news",
+    "som": "sum"
+  },
+  "about": {
+    "title": "About us"
+  },
+  "stores": {
+    "findNearest": "Find direction to the nearest store?",
+    "findRoute": "Get directions",
+    "findMyself": "No, I'll find it myself",
+    "newFeature": "New convenient feature",
+    "getRoute": "«Get directions»",
+    "step1": "1. Go to the \"Stores\" section",
+    "step2": "2. Click the \"Get directions\" button",
+    "step3": "3. Select the nearest store",
+    "address": "Address",
+    "hours": "Working hours",
+    "showMap": "Show on map"
+  },
+  "news": {
+    "title": "NEWS",
+    "all": "All",
+    "main": "Main events",
+    "articles": "Articles",
+    "allArticles": "All articles",
+    "added": "Added",
+    "detail": "Learn more"
+  },
+  "partners": {
+    "title": "Offer for suppliers",
+    "becomeSupplier": "Become a supplier",
+    "desc1": "is a rapidly growing network. If you are a manufacturer or dealer, we are happy to consider your proposals.",
+    "desc2": "We are also always open to offers for renting or selling premises for a store.",
+    "desc3": "For all partnership inquiries, contact us at",
+    "desc3b": "or by email",
+    "desc3c": ".",
+    "categories": "Product categories",
+    "name": "Name",
+    "email": "E-mail",
+    "phone": "Phone",
+    "direction": "Select direction",
+    "message": "Text message",
+    "submit": "Submit"
+  },
+  "vacancy": {
+    "title": "Vacancy",
+    "store": "Store",
+    "office": "Office",
+    "fillForm": "Fill out the form",
+    "whyHavas": "Why did I choose Havas?",
+    "footer": "Fill out the form and find out which vacancy suits you!",
+    "fill": "Fill out"
+  },
+  "offers": {
+    "title": "Special offers",
+    "weekly": "Weekly offer",
+    "detail": "Learn more"
+  },
+  "search": {
+    "back": "Back",
+    "results": "Search results",
+    "found": "Found",
+    "added": "Added",
+    "detail": "Learn more",
+    "info": "12 SOFT PLASTIC PADS"
+  },
+  "signup": {
+    "title": "Registration",
+    "name": "Enter your name",
+    "email": "Enter your email",
+    "password": "Create password",
+    "confirmPassword": "Confirm password",
+    "submit": "Register Now",
+    "haveAccount": "Already have an account?",
+    "login": "Login now",
+    "success": "Successfully registered!",
+    "networkError": "No internet connection.",
+    "error": "An error occurred.",
+    "errors": {
+      "nameRequired": "Name is required",
+      "emailRequired": "Email is required",
+      "emailInvalid": "Enter a valid email",
+      "passwordRequired": "Password is required",
+      "passwordMin": "Password must be at least 6 characters",
+      "confirmRequired": "Please confirm your password",
+      "passwordMatch": "Passwords do not match"
+    }
+  }
+}

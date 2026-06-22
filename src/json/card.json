@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "change": "Hafta taklifi",
+        "image": "https://havasfood.uz/wp-content/uploads/2025/05/ventilyator.png",
+        "text": "Portativ mini ventilyator  uch tezlikda shamol berish  turli xilda",
+        "price": "18 ",
+        "oldPrice": "500 so'm"
+    },
+    {
+        "id": 2,
+        "change": "Hafta taklifi",
+        "image": "https://havasfood.uz/wp-content/uploads/2025/05/jfoyrchya.png",
+        "text": "Simsiz kolonka  G675 USB zaryadkada",
+        "price": "99 ",
+        "oldPrice": "900 so'm"
+    },
+    {
+        "id": 3,
+        "change": "Hafta taklifi",
+        "image": "https://havasfood.uz/wp-content/uploads/2025/05/28918907289f.png",
+        "text": "Akkumulyatorli bolalar quloqchinlari  to’plamida USB bilan",
+        "price": "18 ",
+        "oldPrice": "500 so'm"
+    }
+]

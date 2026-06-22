@@ -1,0 +1,111 @@
+{
+  "header": {
+    "phone": "+998(71)205-95-95",
+    "search": "Izlash"
+  },
+  "nav": {
+    "home": "Bosh sahifa",
+    "about": "Biz haqimizda",
+    "stores": "Do'konlar",
+    "news": "Yangiliklar",
+    "offers": "Maxsus takliflar",
+    "partners": "Hamkorlar uchun",
+    "vacancy": "Vakansiya"
+  },
+  "home": {
+    "special": "Maxsus taklif",
+    "priceNote": "*Narxlar ma'lum bir muddat uchun amal qiladi",
+    "dontMiss": "MAXSUS TAKLIFNI O'TKAZIB YUBORMANG! TAKLIFLAR KATALOGI HAR HAFTA YANGILANADI",
+    "about": "HAVAS — bu «uyingiz yaqinida»gi diskaunterlar tarmog'i. Biz mijozlarimizga sifatli mahsulotlarni qulay narxlarda taklif etamiz.",
+    "aboutSub": "Do'konlarimizda taniqli dunyo va mahalliy brendlar, shuningdek o'z ishlab chiqarishimizga oid mahsulotlarni topishingiz mumkin.",
+    "detail": "Batafsil",
+    "news": "Yangiliklar",
+    "allNews": "Barcha yangiliklarni ko'rish",
+    "som": "so'm"
+  },
+  "about": {
+    "title": "Biz haqimizda"
+  },
+  "stores": {
+    "findNearest": "Eng yaqin do'kon yo'nalishi aniqlansinmi?",
+    "findRoute": "Yo'nalishni aniqlash",
+    "findMyself": "Yo'q, o'zim topaman",
+    "newFeature": "Yangi qulay",
+    "getRoute": "«Yo'nalishni olish»",
+    "step1": "1. \"Do'konlar\" toifasiga o'ting",
+    "step2": "2. \"Yo'nalishni olish\" tugmasini bosing",
+    "step3": "3. Eng yaqin bo'lgan do'konni tanlang",
+    "address": "Manzil",
+    "hours": "Ish tartibi",
+    "showMap": "Xaritada ko'rsatish"
+  },
+  "news": {
+    "title": "YANGILIKLAR",
+    "all": "Barchasi",
+    "main": "Asosiy voqealar",
+    "articles": "Maqolalar",
+    "allArticles": "Barcha maqolalar",
+    "added": "Qo'shilgan",
+    "detail": "Batafsil"
+  },
+  "partners": {
+    "title": "Ta'minotchilarga taklif",
+    "becomeSupplier": "Ta'minotchi bo'lish",
+    "desc1": "jadal rivojlanayotgan tarmoqdir. Agar siz mahsulot ishlab chiqaruvchisi yoki dileri bo'lsangiz, biz siz bilan hamkorlik qilishdan va takliflaringizni ko'rib chiqishdan mamnun bo'lamiz.",
+    "desc2": "Shuningdek, biz binolarni do'kon uchun ijaraga berish yoki sotish bo'yicha takliflarga ham doim xursandmiz.",
+    "desc3": "Hamkorlik bo'yicha barcha savollar bilan",
+    "desc3b": "telefon raqamiga yoki",
+    "desc3c": "elektron pochta manziliga murojaat qilishingiz mumkin.",
+    "categories": "Mahsulotlar kategoriyasi",
+    "name": "Ism",
+    "email": "E-mail",
+    "phone": "Telefon",
+    "direction": "Yo'nalishni tanlang",
+    "message": "Matnli xabar",
+    "submit": "Yuborish"
+  },
+  "vacancy": {
+    "title": "Vakansiya",
+    "store": "Do'kon",
+    "office": "Ofis",
+    "fillForm": "Anketani to'ldiring",
+    "whyHavas": "Nima uchun Havasni tanladim?",
+    "footer": "Anketani to'ldiring va qaysi vakansiyaga mos kelishingizni bilib oling!",
+    "fill": "To'ldirish"
+  },
+  "offers": {
+    "title": "Maxsus takliflar",
+    "weekly": "Hafta taklifi",
+    "detail": "Batafsil"
+  },
+  "search": {
+    "back": "Orqaga",
+    "results": "Qidiruv natijalari",
+    "found": "Topildi",
+    "added": "Qo'shilgan",
+    "detail": "Batafsil",
+    "info": "YUMSHOQ PLASTILIN 12 TA YOSTIQCHA"
+  },
+  "signup": {
+    "title": "Ro'yxatdan o'tish",
+    "name": "Ismingizni kiriting",
+    "email": "Emailingizni kiriting",
+    "password": "Parol yarating",
+    "confirmPassword": "Parolni tasdiqlang",
+    "submit": "Ro'yxatdan o'tish",
+    "haveAccount": "Hisobingiz bormi?",
+    "login": "Kirish",
+    "success": "Muvaffaqiyatli ro'yxatdan o'tdingiz!",
+    "networkError": "Internet ishlamayapti.",
+    "error": "Xatolik yuz berdi.",
+    "errors": {
+      "nameRequired": "Ism majburiy",
+      "emailRequired": "Email majburiy",
+      "emailInvalid": "To'g'ri email kiriting",
+      "passwordRequired": "Parol majburiy",
+      "passwordMin": "Parol kamida 6 ta belgi bo'lishi kerak",
+      "confirmRequired": "Parolni tasdiqlang",
+      "passwordMatch": "Parollar mos kelmayapti"
+    }
+  }
+}
